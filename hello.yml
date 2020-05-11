@@ -1,0 +1,7 @@
+trigger: 
+  master
+  
+steps:
+
+  echo " run helloworld.py"
+  python helloworld.py
